@@ -4,6 +4,7 @@
 
 <p>
 El proyecto consiste en el desarrollo de un brazo robótico de cuatro grados de libertad diseñado para competir contra un oponente humano en el juego de lápiz y papel "Puntos y Cajas". Utiliza visión artificial con marcadores ArUco, algoritmos de inteligencia artificial para estrategias de juego, un sistema de control para mover el brazo de forma precisa y un motor TTS para convertir texto escrito en palabras habladas. El robot puede identificar líneas dibujadas por el jugador, analizar el estado del tablero, realizar movimientos autónomos utilizando un marcador integrado en su gripper e informar de manera continua el progreso y estado de cada partida a través de una voz sintética.
+   Aun no puede llevarse a cabo por disficultades economicas y de tiempo, sin embargo se deja todo el proyecto por si alguine quiere llevarlo a cabo.
 </p>
 <p>
    
@@ -90,9 +91,9 @@ Para mejorar la experiencia del usuario, se integró un motor de síntesis de vo
 El robot guía al jugador desde la fase inicial, proporcionando instrucciones para el comienzo del juego. A lo largo de la partida, la voz sintetizada informa al usuario cuándo es su turno, asegurando así un flujo de juego claro y estructurado. Además, cada vez que un jugador (humano o robot) completa una caja, el sistema anuncia el puntaje parcial actualizado, permitiendo un seguimiento dinámico de la evolución del juego.
 Al concluir la partida, el sistema comunica el puntaje final y anuncia el resultado, especificando si el vencedor ha sido el jugador humano o el robot. De este modo, la integración de la síntesis de voz no solo facilita la interacción hombre-máquina, sino que también enriquece la experiencia del usuario mediante una interfaz más intuitiva y accesible.
 
-### Funcionamiento y uso
+### Funcionamiento y uso (estimado)
 El sistema fue diseñado para ser intuitivo y fácil de usar. Al inicio del juego, se solicita al usuario que verifique las condiciones de iluminación y que los marcadores ArUco sean visibles. Una vez confirmada la detección de los marcadores, el tablero debe estar limpio para comenzar la partida. El juego se desarrolla alternando turnos entre el jugador humano y el robot, quien actualiza el marcador en tiempo real tras cada movimiento. Al finalizar la partida, el sistema imprime el resultado final, proporcionando un resumen del desempeño de ambos participantes.
 
 Este sistema integra todas las etapas de software en una solución robusta, combinando visión artificial, lógica de juego y control robótico para garantizar una experiencia interactiva y eficiente.
 
-<img src="https://github.com/pedrotagliani/dots-and-boxes-robot/blob/main/Images/Line%20detection.png" alt="Detección de líneas"/>
+
