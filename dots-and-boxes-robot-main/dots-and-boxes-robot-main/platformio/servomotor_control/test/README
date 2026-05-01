@@ -1,11 +1,11 @@
 
-This directory is intended for PlatformIO Test Runner and project tests.
+Este directorio está destinado al ejecutor de pruebas de PlatformIO y a las pruebas de proyecto.
 
-Unit Testing is a software testing method by which individual units of
-source code, sets of one or more MCU program modules together with associated
-control data, usage procedures, and operating procedures, are tested to
-determine whether they are fit for use. Unit testing finds problems early
-in the development cycle.
+Las pruebas unitarias son un método de prueba de software mediante el cual se prueban unidades individuales de
+código fuente, conjuntos de uno o más módulos de programa de MCU junto con
+datos de control, procedimientos de uso y procedimientos operativos asociados, para
+determinar si son aptas para su uso. Las pruebas unitarias detectan problemas en las primeras etapas
+del ciclo de desarrollo.
 
-More information about PlatformIO Unit Testing:
+Más información sobre las pruebas unitarias de PlatformIO:
 - https://docs.platformio.org/en/latest/advanced/unit-testing/index.html
