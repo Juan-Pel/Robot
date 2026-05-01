@@ -3,7 +3,7 @@ from cv2 import aruco
 import pickle
 import glob
 
-# Create your own ChArUco board:
+# Crea tu own ChArUco board:
 # https://docs.opencv.org/4.x/da/d0d/tutorial_camera_calibration_pattern.html
 # https://calib.io/pages/camera-calibration-pattern-generator (check if they have the legacy pattern)
 
